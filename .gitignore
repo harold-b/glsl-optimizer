@@ -5,6 +5,7 @@ node_modules
 *.ilk
 *.sdf
 *.opensdf
+*.opendb
 *.la
 *.lo
 *.log
@@ -76,3 +77,6 @@ glsl_compiler
 
 build
 metalTemp.metal
+
+bin
+obj
